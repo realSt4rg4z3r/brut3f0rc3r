@@ -1,5 +1,5 @@
 # brut3f0rc3r
-Python script that creates strings of a given length from every combination of the listed characters
+Python script that creates strings of a given length from every combination of the listed characters (requires NumPy)
 
 Usage: python3 brut3f0rc3r.py [length]
 
